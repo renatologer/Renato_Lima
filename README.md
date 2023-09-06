@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/renatologer/Renato_Lima/blob/output/github-contribution-grid-snake.svg)
 
 <! --
 **renatologer/Renato_Lima** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
